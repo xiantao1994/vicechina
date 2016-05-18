@@ -1,0 +1,19 @@
+<div class="m-index">
+  <header>
+    <div></div>
+    <div>
+      <img src="/webapp1502/images/vice-china.png">
+    </div>
+    <div class="yo-ico"><i>&#xe600;</i></div>
+  </header>
+  <section>
+    <ul>
+      <li></li>
+      <li>最新</li>
+      <li>精选</li>
+      <li>最热</li>
+      <li></li>
+    </ul>
+  </section>
+  <div class="m-index-container"></div>
+</div>
